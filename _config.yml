@@ -1,4 +1,6 @@
 # Where things are
+# This is a comment
+
 source              : .
 destination         : ./_site
 collections_dir     : .
