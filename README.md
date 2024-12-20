@@ -1,2 +1,0 @@
-# superbueno
-Super Bueno Goods
